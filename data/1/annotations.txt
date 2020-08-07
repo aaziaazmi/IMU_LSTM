@@ -1,0 +1,10 @@
+200 1600 get_a_b
+1601 2400 get_tools
+2401 3300 attach_a_b
+3301 4200 screw
+4201 4800 screw
+4801 5400 screw
+5401 6400 screw
+6401 7200 attach_a_b_c
+7201 8300 insert_screws
+8301 9600 hold_for_robot
